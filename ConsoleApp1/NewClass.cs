@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System;
 
 namespace ConsoleApp1
@@ -11,3 +12,7 @@ namespace ConsoleApp1
         }
     }
 }
+//=======
+//ovo je neka druga promjena
+//>>>>>>> 4ef74d862578288b3ef2e6a47f37e43ef0dc2492
+//
